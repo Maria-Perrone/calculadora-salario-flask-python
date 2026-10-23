@@ -1,0 +1,31 @@
+# Python e Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes Virtuais
+venv/
+env/
+ENV/
+.venv/
+
+# Pytest e Testes
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*~
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Variáveis de Ambiente
+.env
